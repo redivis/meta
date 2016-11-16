@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b57b5802-e2da-46cb-a21c-c73a2090b450" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ISSUE_TEMPLATE.md" afterPath="$PROJECT_DIR$/ISSUE_TEMPLATE.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -23,7 +23,7 @@
     <favorites_list name="redivis-meta" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file leaf-file-name="ISSUE_TEMPLATE.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ISSUE_TEMPLATE.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -56,7 +56,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="277" />
+    <option name="x" value="423" />
     <option name="y" value="23" />
     <option name="width" value="1889" />
     <option name="height" value="1301" />
@@ -76,6 +76,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -91,7 +92,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -110,15 +110,16 @@
       <updated>1479325305824</updated>
       <workItem from="1479325306968" duration="20000" />
       <workItem from="1479325335672" duration="75000" />
-      <workItem from="1479325432182" duration="471000" />
+      <workItem from="1479325432182" duration="503000" />
+      <workItem from="1479326136165" duration="23000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="566000" />
+    <option name="totallyTimeSpent" value="621000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="277" y="23" width="1889" height="1301" extended-state="0" />
+    <frame x="423" y="23" width="1889" height="1301" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24986765" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
