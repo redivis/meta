@@ -15,15 +15,4 @@ To create a new issue, click on the issues tab, and then click [new](https://git
 ## Releases
 Our release history can be found [here](https://github.com/redivis/meta/releases). This will be regularly updated with new features and bug fixes.
 
-## Help  
-### Running queries in the project tool  
-All queries are run against a BigQuery service, and BigQuery StandardSQL syntax and functions are generally supported (note that BigQuery LegacySQL is not supported). All data types except for Array, Struct, and Timestamp are supported. We recommend consulting the [BigQuery documentation](https://cloud.google.com/bigquery/docs/reference/standard-sql/) for further reference.
-
-There are two notable differences in executing SQL code through the Redivis project tool: 
-1) All variables that are referenced from a previous table must be prefixed by `$`. 
-2) The name of the table that you are selecting _from_ is auto-populated by Redivis; a Transform may only select against its previous table. This table is represented as two backticks (``` `` ```)    
-    
-e.g.,   
-```sql
-SELECT $var1, $var2, $var3 as newVar3 FROM `` WHERE $var4='hello world'
-```
+## [Help](./wiki)  
