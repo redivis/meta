@@ -13,5 +13,8 @@ To create a new issue, click on the issues tab, and then click [new](https://git
 ## Releases
 Our release history can be found [here](https://github.com/redivis/meta/releases). This will be regularly updated with new features and bug fixes.
 
+## Contact 
+Please feel free to reach out to us! contact@redivis.com
+
 ## Help 
-You can find help information at our [wiki](https://github.com/redivis/meta/wiki). Please don't hesitate to open an issue if these guides are at all unclear or incomplete.
+You can find help information at https://help.redivis.com 
