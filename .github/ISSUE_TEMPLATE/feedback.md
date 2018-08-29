@@ -10,7 +10,7 @@ It's frustrating when (...)
 **Describe a solution (if you have one in mind)**
 I'd like a way to (...)
 
-**Describe alternatives or other products we should check out**
+**Describe other related products we could check out (if applicable)**
 
 
 **Any additional context**
