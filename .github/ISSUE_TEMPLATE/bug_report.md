@@ -1,17 +1,21 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Tell us what's broken so we can fix it
 
 ---
 
 **Describe the bug**
 
 
-**Steps to Reproduce**
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
+**Steps to reproduce**
+1. Go to (...)
+2. Click on (....)
+3. Scroll down to (....)
 4. See error
+
+**Browser**
+(e.g. chrome, safari)
+
 
 **Expected behavior**
 
@@ -19,8 +23,4 @@ about: Create a report to help us improve
 **Screenshots**
 
 
-**Browser**
-(e.g. chrome, safari)
-
-
-**Additional context**
+**Any additional context**
