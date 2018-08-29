@@ -7,7 +7,7 @@ production: [![CircleCI](https://circleci.com/gh/redivis/app/tree/production.svg
 ## Overview  
 This repository is for tracking feature requests and reporting issues in [Redivis](https://redivis.com).
 
-## Features / Bugs  
+## Feedback and Bugs  
 To create a new issue, click on the issues tab, and then click [new](https://github.com/redivis/meta/issues/new). Please reference and follow the issue template when creating a new issue.
 
 ## Releases
