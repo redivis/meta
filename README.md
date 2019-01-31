@@ -17,4 +17,4 @@ Our release history can be found [here](https://github.com/redivis/meta/releases
 Please feel free to reach out to us! contact@redivis.com
 
 ## Help 
-You can find help information at https://help.redivis.com 
+You can find help information at https://docs.redivis.com 
