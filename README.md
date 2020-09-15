@@ -12,6 +12,9 @@ To create a new issue, click on the issues tab, and then click [new](https://git
 ## Releases
 Our release history can be found [here](https://github.com/redivis/meta/releases). This will be regularly updated with new features and bug fixes.
 
+## Roadmap
+Our quarterly roadmap can be found [here](https://github.com/redivis/meta/projects/1). We describe our in-progress design and development work, and referece issues that will be adressed in each push.
+
 ## Contact 
 Please feel free to reach out to us! contact@redivis.com
 
