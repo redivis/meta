@@ -1,5 +1,5 @@
 
-<img alt="Redivis logo" src="https://github.com/redivis/meta/raw/master/logo.png" height="100"/>
+<img alt="Redivis logo" src="https://github.com/redivis/meta/raw/master/logo.png" height="150"/>
 
 [System status](https://status.redivis.com)
 
